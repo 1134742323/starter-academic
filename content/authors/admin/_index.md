@@ -7,7 +7,7 @@ authors:
 -  admin
 
 # Is this the primary user of the site?
-- superuser:  true 
+superuser: true
 
 # Role/position
 role:  Master Student of Civil Engineering
