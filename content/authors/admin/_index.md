@@ -4,10 +4,10 @@ title: Zihan Liu
 
 # Username (this should match the folder name)
 authors:
-- admin
+-  admin
 
 # Is this the primary user of the site?
-# superuser: true
+superuser:  true
 
 # Role/position
 role: Master Student of Civil Engineering
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in 
     institution: 
-    year: 
+    year:  
   - course: MEng in Civil Engineering
     institution: Massachusetts Institute of Technology
     year: 
