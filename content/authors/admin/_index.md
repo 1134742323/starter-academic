@@ -3,18 +3,18 @@
 title: Zihan Liu
 
 # Username (this should match the folder name)
-authors:
+authors: 
 -  admin
 
 # Is this the primary user of the site?
-superuser:  true
+superuser:  true 
 
 # Role/position
-role: Master Student of Civil Engineering
+role:  Master Student of Civil Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Shanghai Jiao Tong University
+-  name: Shanghai Jiao Tong University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,7 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "zihanliu@sjtu.edu.cn".
-  link:zihanliu@sjtu.edu.cn
+  link: zihanliu@sjtu.edu.cn
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/
