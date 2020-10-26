@@ -25,8 +25,8 @@ interests:
 - Finite Element Method	
 
 education:
-  courses:
-  -  course: PhD in 
+  courses: 
+  - course: PhD in 
     institution: 
     year: 
   - course: MEng in Civil Engineering
