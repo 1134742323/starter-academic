@@ -31,8 +31,8 @@ education:
     year: 
   - course: MEng in Civil Engineering
     institution: Shanghai Jiao Tong University
-    year: 
-  - course: BSc in Artificial Intelligence	  - course: BSc in Civil Engineering
+    year:  2
+  - course: BSc in Civil Engineering
     institution: China University of Geosciences
     year: 2019
 
