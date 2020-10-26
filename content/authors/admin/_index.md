@@ -13,12 +13,12 @@ superuser: true
 role:  Master Student of Civil Engineering
 
 # Organizations/Affiliations
-organizations:
+organizations: 
 -  name: Shanghai Jiao Tong University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ....
+bio: My research interests include ... .
 
 interests:
 - Rock Mass Mechanical
@@ -26,7 +26,7 @@ interests:
 - Finite Element Method
 
 education:
-  courses:
+  courses: 
   - course: PhD in 
     institution: 
     year:  
@@ -41,7 +41,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+social: 
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "zihanliu@sjtu.edu.cn".
@@ -69,9 +69,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+user_groups: 
 - Researchers
 - Visitors
----
+--- 
 
 Zihan Liu is a Master Student of Civil Engineering at Shanghai Jiao Tong University. His research interests include Rock Mass Mechanical, Fracture Mechanical, Finite Element Method. 
