@@ -3,7 +3,7 @@
 title: Zihan Liu
 
 # Username (this should match the folder name)
-authors:
+authors:  
 - admin
 
 # Is this the primary user of the site?
